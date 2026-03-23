@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KHAIRA_JXTT.aternos.me",
+    "ip": "KHAIRA_JXTT.aternos.me:27250",
     "port": 27250,
     "version": "1.21.1"
   },
